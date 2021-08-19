@@ -1,0 +1,6 @@
+Carlos,Sanchez,20/01/1980,45678.08
+Alberto,Fernandez,06/03/1950,2003.99
+Gonzalo,Gonzalez,09/12/1812,930.98
+Roberto,Gomez,23/03/1990,63671.08
+Juan,Meza,16/05/1954,12003.99
+Jorge,Gutierrez,29/10/1912,25930.98
