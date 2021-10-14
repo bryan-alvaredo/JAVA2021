@@ -11,7 +11,7 @@ public class Act7 {
         for (int i = 0; i< str.length(); i++) {
             char letra = str.charAt(i);
             if (letra==' ') { //retoma el empacio
-                sb.append(' ');
+                //sb.append(' ');
             }
             if (122 >= letra && letra >= 97) {
                 letra = (char)((letra - 32)); 
